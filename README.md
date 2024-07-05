@@ -4,7 +4,7 @@
 
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;vuejs+for+life">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=data+analyst;Big Data+and IA+for+life">
     <h3 align="center">Love Python, I enjoy making data speak in order to make it accessible to everyone.</h3>
     <h3 align="center">I'm Data Analyst</h3>
 </p>
